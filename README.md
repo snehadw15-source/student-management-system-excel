@@ -21,4 +21,7 @@ status, and presents performance through an interactive KPI dashboard.
 ![Dashboard](screenshots/dashboard.png)
 
 ## 🛠️ Tools Used
-Microsoft Excel 
+- Microsoft Excel (Desktop)
+- Formulas: VLOOKUP, IF, COUNTIF, COUNTIFS, AVERAGEIF, INDEX/MATCH, SUM
+- Features: Data Validation, Conditional Formatting, Pivot Tables, Pivot Charts, Slicers
+
